@@ -28,7 +28,7 @@
             ],
             "outputMode": "static",
             "outputPath": "dist",
-            "baseHref": "/",
+            "baseHref": "/Restaurante/app/app.component.html",
             "ssr": {
               "entry": "src/server.ts"
             }
