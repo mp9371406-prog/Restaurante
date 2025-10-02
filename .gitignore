@@ -1,0 +1,15 @@
+# Dependencias de Node
+/node_modules
+
+# Archivos de salida de compilación
+/dist
+/out-tsc
+
+# Caché de Angular y logs
+.angular/cache
+npm-debug.log*
+yarn-error.log*
+
+# Configuraciones de IDE (Opcional)
+.vscode/
+.idea/

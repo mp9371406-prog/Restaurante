@@ -1,0 +1,13 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.card img {
+  object-fit: cover;
+  height: 220px;
+  border-bottom: 2px solid #eee;
+}
+
+h1, h2 {
+  color: #2c3e50;
+}
